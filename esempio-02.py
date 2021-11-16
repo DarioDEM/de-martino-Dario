@@ -1,6 +1,6 @@
-a= 60
-b= 50
-c= 90
+a= input("inserire un numero")
+b= input("inserire un numero2")
+c= input("inserire un numero3")
 
 if a>b and a>c:
     print("il più grande è",a)
